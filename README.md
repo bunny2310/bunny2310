@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bunny2310
+- 👋 Hi, I’m @bunny2310 , IITM BS'27
 - 👀 I’m interested in data science field
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on my projects
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on  projects
   
 
 <!---
